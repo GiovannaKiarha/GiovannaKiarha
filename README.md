@@ -9,8 +9,8 @@ Bem-vindo ao meu perfil do GitHub! Sou uma estudante de Análise e Desenvolvimen
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🎓 Estudo na Estácio com formação prevista para o segundo semestre de 2025.
-- 🌱 Atualmente estou aprendendo JavaScript e C#.
-- 💬 Fale comigo sobre jogos e desenvolvimento.
+- 🌱 Atualmente estou aprendendo Python(Pandas) e SQL.
+- 💬 Fale comigo sobre jogos e Análise de dados.
 
 - ## 🛠 Tecnologias e Ferramentas
 
