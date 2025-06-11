@@ -22,7 +22,7 @@ Bem-vindo ao meu perfil do GitHub! Sou uma estudante de Análise e Desenvolvimen
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=Giovannakiarha&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
 </p>
 
 ## 📫 Como me encontrar
