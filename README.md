@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil do GitHub! Sou uma estudante de Análise e Desenvolvimen
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🎓 Estudo na Estácio com formação prevista para o segundo semestre de 2025.
-- 🌱 Atualmente estou aprendendo Python(Pandas) e SQL.
+- 🌱 Atualmente estou aprendendo Python(Pandas, NumPy) e SQL.
 - 💬 Fale comigo sobre jogos e Análise de dados.
 
 - ## 🛠 Tecnologias e Ferramentas
@@ -19,7 +19,6 @@ Bem-vindo ao meu perfil do GitHub! Sou uma estudante de Análise e Desenvolvimen
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
