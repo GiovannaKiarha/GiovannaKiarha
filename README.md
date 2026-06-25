@@ -7,10 +7,9 @@ Bem-vindo ao meu perfil do GitHub! Sou uma estudante de Análise e Desenvolvimen
 
 ## 🚀 Sobre Mim
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🎓 Estudo na Estácio com formação prevista para o segundo semestre de 2025.
-- 🌱 Atualmente estou aprendendo Python(Pandas, NumPy) e SQL.
-- 💬 Fale comigo sobre jogos e Análise de dados.
+- 💻 Forma em Análise e Desenvolvimento de Sistemas e trabalhando como Engenheira de QA
+- 🌱 Atualmente estou focada em melhorar minhas habilidades de QA e automação com Python
+- 💬 Fale comigo sobre jogos e QA.
 
 - ## 🛠 Tecnologias e Ferramentas
 
