@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil do GitHub! Sou uma estudante de Análise e Desenvolvimen
 
 ## 🚀 Sobre Mim
 
-- 💻 Forma em Análise e Desenvolvimento de Sistemas e trabalhando como Engenheira de QA
+- 💻 Formada em Análise e Desenvolvimento de Sistemas e trabalhando como Engenheira de QA
 - 🌱 Atualmente estou focada em melhorar minhas habilidades de QA e automação com Python
 - 💬 Fale comigo sobre jogos e QA.
 
